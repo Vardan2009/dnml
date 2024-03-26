@@ -1,5 +1,5 @@
 # DNML
-Data Notation Markup Language is a simple Markup Language with a very simple syntax
+Data Notation Markup Language is a Markup Language with a very simple syntax for storing data (similar to JSON)\
 I've made a simple parser using python to convert Python dictionaries to DNML files, and vice versa
 
 ## Usage
