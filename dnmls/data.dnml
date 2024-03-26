@@ -1,0 +1,10 @@
+# This is a comment and yes, comments also end by a semicolon;
+
+name - "John Doe";
+age - 30;
+height - 5.11;
+
+colors -
+    "red",
+    "green",
+    "blue";

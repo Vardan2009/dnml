@@ -1,0 +1,27 @@
+#
+    training
+;
+
+epochs - 100;
+optimizer - "adam";
+no_of_classes - 10;
+hidden_layers - 2;
+
+#
+    inference
+;
+
+export_dir - "C:\model";
+
+#
+    trained model details
+;
+
+model_file_name - "best.pt";
+checkpoint - 19001;
+
+#
+    model usage
+;
+
+model_desc - "This is a model to classify images and detect objects present in an image"
