@@ -18,7 +18,7 @@ key - value;
 
 ## Basic Example
 ```
-# This is a comment and yes, comments also end by a semicolon;
+# This is a comment and yes, comments also end with a semicolon;
 
 name - "John Doe";
 age - 30;
